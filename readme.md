@@ -35,6 +35,10 @@ bash
 
 elixir -v
 
-
+## Install Phoenix
 mix archive.install hex phx_new
+
+## Create App with Phoenix
+mix phx.new my_app
+
 
